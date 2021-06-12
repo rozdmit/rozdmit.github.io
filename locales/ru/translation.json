@@ -1,0 +1,70 @@
+{
+  "header": {
+    "navigation": {
+      "menu": {
+        "profile": "Профиль",
+        "my-orders": "Мои ордера",
+        "my-items": "Мои предметы",
+        "withdraw-money": "Вывод средств",
+        "deposit-money": "Пополнение баланса",
+        "items-on-sale": "Предметы на продаже",
+        "transactions": "История продаж",
+        "security": "Безопасность",
+        "logout": "Выйти из профиля"
+      },
+      "support": "Поддержка",
+      "inventory": "Инвентарь",
+      "sell-button": "Продать"
+    },
+    "filter": {
+      "title": "Фильтры",
+      "market-button": "Маркет",
+      "advanced-search": "Расширенный поиск",
+      "search-placeholder": "Поиск по предметам"
+    }
+  },
+  "filters": {
+    "advanced-filters": {
+      "price": {
+        "title": "Стоимость",
+        "min": "От",
+        "max": "До"
+      },
+      "exterior": {
+        "title": "Экстерьер",
+        "min": "От",
+        "max": "До"
+      },
+      "trade-lock": {
+        "title": "Блокировка",
+        "min": "От",
+        "max": "До",
+        "days": "дней"
+      },
+      "stickers": {
+        "title": "Стикеры",
+        "min": "От",
+        "max": "До",
+        "amount": "Кол-во",
+        "search-input": "Введите название"
+      },
+      "rarity": {
+        "title": "Редкость"
+      },
+      "weapon-type": {
+        "title": "Тип оружия"
+      },
+      "knife-phase": {
+        "title": "Фаза ножа"
+      }
+    }
+  },
+  "dates": {
+    "day": "день",
+    "days": "дней",
+    "week": "неделя",
+    "month": "месяц",
+    "half year": "полгода",
+    "year": "год"
+  }
+}

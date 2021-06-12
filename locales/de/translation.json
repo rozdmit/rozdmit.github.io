@@ -1,0 +1,15 @@
+{
+  "header": {
+    "navigation": {
+      "support": "Unterstützung",
+      "inventory": "Inventar",
+      "sell-button": "Verkaufen"
+    },
+    "filter": {
+      "title": "Filter",
+      "market-button": "Markt",
+      "advanced-search": "Erweiterte Suche",
+      "search-placeholder": "Suche nach Artikeln"
+    }
+  }
+}

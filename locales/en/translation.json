@@ -1,0 +1,50 @@
+{
+  "translation": {
+    "header": {
+      "navigation": {
+        "menu": {
+          "profile": "Profile",
+          "my-orders": "My orders",
+          "my-items": "My items",
+          "withdraw-money": "Withdraw",
+          "deposit-money": "Deposit",
+          "items-on-sale": "Items on sale",
+          "transactions": "Transactions",
+          "security": "Security",
+          "logout": "Log Out"
+        },
+        "support": "Support",
+        "inventory": "Inventory",
+        "sell-button": "Sell"
+      },
+      "filters": {
+        "title": "Filters",
+        "market-button": "Market",
+        "advanced-search": "Advanced Search",
+        "search-placeholder": "Search by items"
+      }
+    },
+    "footer": {
+      "navigation": {
+        "product": {
+          "prices": "Prices",
+          "market": "Market"
+        },
+        "contacts": {
+          "faq": "FAQ",
+          "support": "Support",
+          "API": "API Docs",
+          "contacts": "Contacts"
+        },
+        "information": {
+          "tos": "Terms of Service",
+          "privacy-policy": "Privacy Policy"
+        }
+      },
+      "services": "We accept",
+      "socials": "Follow Us",
+      "copyright": "All rights reserved",
+      "design-by": "Designed by"
+    }
+  }
+}
